@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+ <!-- data-info:v:20210518_21098802;a:2ed20eec-5fea-459d-ab3b-94cfc82987f9;cn:31;az:{did:a50ac9605f704ff085607b853101e440, rid: 31, sn: eastus-prod-hp, dt: 2021-05-20T08:09:04.5526316Z, bt: 2021-05-18T01:11:22.3127999Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:,vk:homepage,n:,l:en-us,ck:};xd:BBnbhK2;ovc:f;al:;fxd:f;xdpub:2021-05-18 06:57:30Z;xdmap:2021-05-20 15:19:36Z;axd:;f:msnallexpusers,rrotbn_c,muidflt11cf,muidflt14cf,muidflt21cf,muidflt300cf,muidflt301cf,startedge1cf,audexedge2cf,bingcollabedge1cf,platagyhp2cf,moneyhp1cf,bingcollabhp1cf,starthz3cf,audexhz3cf,vid-embed-oldc,article2cf,anaheim1cf,vebudumu04302020,revc-spar-us,bbh20200521msncf,prg-sh-trncrslc,msnsports5cf,preprg-1sw-map-c,prong1c,csmoney5cf,btrecenus,1s-cookieauth,vmgrtb,1s-winblisp1,prg-adspeek,prg-cpship,prg-cpp,prg-northstar,prg-wpo-northstr,jacusrollout;userOptOut:false;userOptOutOptions: -->
+ <meta name="robots" content="index, follow"/>
+ <link rel="canonical" href="https://www.msn.com/" />
+ 
+
+ <title>MSN | Outlook, Office, Skype, Bing, Breaking News, and Latest Videos</title>
+ <meta name="description" content="Your customizable and curated collection of the best in trusted news plus coverage of sports, entertainment, money, weather, travel, health and lifestyle, combined with Outlook/Hotmail, Facebook, Twitter, Bing, Skype and more."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eus/en-us/homepage/_sc/css/d7cb56b9-4ab53bd3/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/a3-0c78f8-4e3b0a9b/a1-1361d8-ee5f2b10/26-6b69de-a955659a/b5-c9988b-f94d3276/d9-7989c3-a648eab2/6c-a403a9-63b61fa3/db-f2360f-68ddb2ab/e3-c85f78-4534563a/be-32a9f4-654638bf/e8-46ed2d-8a746cb4/40-4248a5-9118303c?ver=20210518_21098802&amp;fdhead=msnallexpusers,rrotbn_c,muidflt11cf,muidflt14cf,muidflt21cf,muidflt300cf,muidflt301cf,startedge1cf,audexedge2cf,bingcollabedge1cf,platagyhp2cf,moneyhp1cf,bingcollabhp1cf,starthz3cf,audexhz3cf,vid-embed-oldc,article2cf,anaheim1cf,vebudumu04302020,revc-spar-us,bbh20200521msncf,prg-sh-trncrslc,msnsports5cf,preprg-1sw-map-c,prong1c,csmoney5cf,btrecenus,1s-cookieauth,vmgrtb,1s-winblisp1,prg-adspeek,prg-cpship,prg-cpp,prg-northstar,prg-wpo-northstr,jacusrollout&amp;csopd=20210511231046&amp;csopdb=20210512073937" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-eus/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.spartan #main .paging-container.snap{overflow-x:hidden}#main .poc.topsites li{width:14.2%}#main .simple.poc.topsites a{height:16.5rem;width:16.5rem}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.stripecontainer .stripeouter.noborder{height:33.7rem}.mobile #header-common>h1 a.vertical{color:#fff}.ip .nativead .caption .nativead{color:#a0a0a0}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}body.startpage .normalsection[data-section-id='stripe.bannernativead'] #extcontentsponcon__sliver_1 a.adchoices{position:absolute;top:0}@media screen and (max-width:58.865em){body.startpage .normalsection[data-section-id='stripe.bannernativead'] #extcontentsponcon__sliver_1 a.adchoices{position:absolute}}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}@media screen and (max-width:52.303em){#irisbanner .irisbanner header>a{max-width:33rem}}.tmx.pc.webkit.chrome .msame_Header_pic{height:5rem}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+ <div id="banners">
+
+
+
+ </div>
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-us">Home</a>
+</li>
+ <li >
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/news/coronavirus">Coronavirus News</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/esports?ocid=essports">esports</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle/shopping">Shopping</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ <li >
+<a href="/en-us/kids">Kids</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-us" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/en-us/settings/markettoggle"><img alt="en-us" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRUSDL" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+    <input type="hidden" name="msnews" value="1">
+ <input type="hidden" name="refig" value="2ed20eec5fea459dab3b94cfc82987f9">
+<input type="submit" class="text" value="web search" title="web search" />
+ <div id="sw_as"> </div>
+ </div>
+</form>
+ <script type="text/javascript">
+            //<![CDATA[
+            var srchInput = document.getElementById("q");
+            function sj_be(el, evt, mth) {
+                if (el.addEventListener) {
+                    el.addEventListener(evt, mth, false);
+                }
+                else if (el.attachEvent) {
+                    el.attachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = mth;
+                }
+            }
+
+            function sj_ue(el, evt, mth) {
+                if (el.removeEventListener) {
+                    el.removeEventListener(evt, mth, false);
+                }
+                else if (el.detachEvent) {
+                    el.detachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = null;
+                }
+            }
+
+            function loadScript(url, callback) {
+                var script = document.createElement("script")
+                script.type = "text/javascript";
+
+                if (script.readyState) {
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.readyState == "complete") {
+                            script.onreadystatechange = null;
+                            callback();
+                        }
+                    };
+                }
+                else {
+                    script.onload = function () {
+                        callback();
+                    };
+                }
+
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            }
+
+            function initAS() {
+                loadScript("http://www.bing.com/s/as/1436447/en.js", function () {
+                    var config = { u: 'http://api.bing.com/qsonhs.aspx?form=MSN005', tPN: 'Popular Now', f: 'srchfrm', i: 'q', r: 'AutoSugShared', o: 's+a+p+hs+', h: 1, k: 0, m: 8, d: 100, ol: 1, eHS: 1, spr: 0 };
+                    if (typeof window.sa_autosuggest != "undefined") {
+                        window["sa_inst"] = new window.sa_autosuggest(config);
+                        window["sa_inst"].init("sa_inst");
+                    }
+                });
+                sj_ue(srchInput, 'click', initAS);
+            }
+
+            if (srchInput) {
+                sj_be(srchInput, 'click', initAS);
+            }
+            //]]>
+        </script>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/en-us/weather/today/Falls-Church,Virginia,United-States/we-city?iso=US&amp;el=YShF9WHHK0VW7igPpGiaig%3D%3D" data-loc="lat=38.89&amp;long=-77.18&amp;c=Falls%20Church&amp;st=Virginia&amp;cn=United%20States&amp;iso=US&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MIjP.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MIjP.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="Cloudy" title="Cloudy" data-icon="5" />
+	<div id="weatheralert" title="Alert!">Alert!</div>
+	<div><span class="currentcond">81&#176;</span><span class="tempunit">F</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">Falls Church, Virginia</span>
+<span class="skytext">Today, Cloudy</span>
+<span class="tempavghigh">High 87&#176;</span>
+<span class="tempavglow">Low 59&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="Change location or temperature unit" data-degreetype="F" 
+data-home="Search for Location / City" title="Change">Change</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="Close">Close</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/en-us/weather/search" data-action="/en-us/weather/ajax/places/search/" method="get" >
+ 
+<p class="label" id="weaaddlocation-label">Set Default Location</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;en-us&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/en-us/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:38.8881,&quot;lon&quot;:-77.1801}'
+                   placeholder="Search for Location / City" data-seemoretext="Press &lt;Enter&gt; to see more" data-autosuggestdelay="100"
+                   aria-label="Search for Location / City"  />
+<button type="submit" title ="Search" class="searchbtn" 
+  aria-label="search">
+<span class="x-screen-reader">Search</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="No search results for &#39;{0}&#39;"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="An unexpected error occurred, please try again."></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+
+<div  role="radiogroup">
+<p>Display Temperature In</p>
+<form id="id7a4f82dbfe5e4197853c341daef6c40d" class="setdegree"  action="/en-us/weather/ajax/places/savedegree/" method="post">
+ 
+<div>
+<button name="weaDegreeType" id="id7a4f82dbfe5e4197853c341daef6c40d_fahrenheit" value="F"
+                        class="selected"
+ role="radio"
+ >
+<span class="dot"></span>
+</button>
+<label for="id7a4f82dbfe5e4197853c341daef6c40d_fahrenheit" form="id7a4f82dbfe5e4197853c341daef6c40d">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="id7a4f82dbfe5e4197853c341daef6c40d_celsius" value="C"
+                        class=""
+ role="radio"
+ >
+<span class="dot"></span>
+</button>
+<label for="id7a4f82dbfe5e4197853c341daef6c40d_celsius" form="id7a4f82dbfe5e4197853c341daef6c40d">Celsius</label>
+</div>
+ 
+</form>
+</div>
+
+<button  class="donebutton disabled" disabled="disabled" title="Done">Done</button>
+</div>
+</div>
+	</div>
+ <div class="popularnow">
+ <h3><a href="https://www.msn.com/en-us/news" >TRENDING NOW</a></h3>
+                        <ul>
+                            <li>    <a href="https://bing.com/covid?form=msntrk"  >
+
+COVID-19 tracker    </a>
+</li>
+<li>    <a href="https://www.msn.com/en-us/news"  >
+
+Latest news    </a>
+</li>
+                        </ul>
+                        <ul>
+                            <li>    <a href="https://www.msn.com/en-us/news/factcheck"  >
+
+Fact check    </a>
+</li>
+<li>    <a href="https://www.msn.com/en-us/sports/nfl"  >
+
+Latest NFL news    </a>
+</li>
+                        </ul>
+                    </div>
+ </div>
+ <div class="stripe first">
+<h2>Today</h2>    <a href="/en-us/news/world/covid-fight-could-return-to-square-one-experts-sound-vaccines-alarm/ar-AAKcyg0?li=BBnb7Kz"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKcAfL.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="FILE PHOTO: Nurse prepares to administer the AstraZeneca/Oxford vaccine against ... - Reuters/Tiksa Negeri" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/news/world/covid-fight-could-return-to-square-one-experts-sound-vaccines-alarm/ar-AAKcyg0?li=BBnb7Kz"  >
+
+COVID fight could return &#39;to square one&#39;: Experts sound vaccines alarm    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/world/israel-hamas-trade-blows-in-gaza-as-truce-talk-builds/ar-AAKbHMS?li=BBnb7Kz"  >
+
+Israel, Hamas trade blows in Gaza as truce talk builds    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/politics/not-a-positive-development-what-the-new-criminal-probe-could-mean-for-the-trump-org/ar-AAKaLx2?li=BBnb7Kz"  >
+
+What the new criminal probe could mean for the Trump Org    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/world/report-bbc-reporter-used-deceit-to-get-1995-diana-interview/ar-AAKclUH?li=BBnb7Kz"  >
+
+Report: BBC reporter used deceit to get 1995 Diana interview    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/us/rural-oregon-counties-vote-to-explore-seceding-to-idaho/ar-AAKc8Z2?li=BBnb7Kz"  >
+
+Rural Oregon counties vote to explore seceding to Idaho    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/news/washingtondc" >Washington, DC</a></h2>    <a href="https://www.msn.com/en-us/news/politics/100-years-after-the-tulsa-race-massacre-it-s-time-to-acknowledge-all-of-our-history-hear-me-out/ar-AAKc0ff?ocid=hplocalnews"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKc5gE.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="100 years after the Tulsa Race Massacre, it&#39;s time to acknowledge all of our his... - Provided by WUSA-TV Washington, D.C." width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://www.msn.com/en-us/news/politics/100-years-after-the-tulsa-race-massacre-it-s-time-to-acknowledge-all-of-our-history-hear-me-out/ar-AAKc0ff?ocid=hplocalnews"  >
+
+100 years after the Tulsa Race Massacre, it&#39;s time to acknowledge all of our history | Hear Me Out    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.com/en-us/news/crime/director-of-dc-s-embattled-crime-lab-resigns/ar-BB1gV1u4?ocid=hplocalnews"  >
+
+Director of DC&#39;s Embattled Crime Lab Resigns    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.com/en-us/news/politics/reversing-trump-buttigieg-reinstates-local-hiring-program/ar-BB1gUjIY?ocid=hplocalnews"  >
+
+Reversing Trump, Buttigieg reinstates local hiring program    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.com/en-us/news/us/rescue-me-noah-is-a-senior-dog-who-loves-to-chill/ar-AAKcnpC?ocid=hplocalnews"  >
+
+Rescue Me: Noah Is A Senior Dog Who Loves To Chill    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.com/en-us/sports/mlb/washington-nationals-news-notes-davey-martinez-on-positive-covid-test-will-harris-struggling/ar-AAKcnqS?ocid=hplocalnews"  >
+
+Washington Nationals news &amp; notes: Davey Martinez on positive COVID test; Will Harris struggling...    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/entertainment" >Entertainment</a></h2>    <a href="/en-us/movies/news/the-villains-from-90s-movies-who-we-love-to-hate/ss-BB19vAGr?li=BBnb2gh"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB19vAEN.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1239&amp;y=864" title="The villains from 90s movies who we love to hate - Warner Bros." width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/movies/news/the-villains-from-90s-movies-who-we-love-to-hate/ss-BB19vAGr?li=BBnb2gh"  >
+
+The villains from &#39;90s movies who we love to hate    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/lifestyle-buzz/lea-michele-and-more-celeb-parents-teach-their-babies-to-swim/ss-AAHglP3?li=BBnb2gh"  >
+
+Lea Michele and More Celeb Parents Teach Their Babies to Swim    </a>
+
+</li>
+ <li >
+     <a href="/en-us/tv/celebrity/lisa-rinna-dishes-on-meeting-daughter-amelia-hamlin-s-boyfriend-scott-disick-for-the-first-time/ar-AAKcmrV?li=BBnb2gh"  >
+
+Lisa Rinna Dishes on Meeting Daughter Amelia Hamlin&#39;s Boyfriend Scott Disick for the First Time    </a>
+
+</li>
+ <li >
+     <a href="/en-us/tv/news/the-fresh-prince-of-bel-air-cast-25-years-later-where-are-they-now/ss-AAKbU7K?li=BBnb2gh"  >
+
+&#39;The Fresh Prince of Bel-Air&#39; cast 25 years later: Where are they now?    </a>
+
+</li>
+ <li >
+     <a href="/en-us/movies/news/biggest-box-office-stars-since-1980/ss-BB1aNknx?li=BBnb2gh"  >
+
+Biggest box office stars since 1980    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>From Our Partners</h2>    <a href="https://zenherald.com/lifestyle/hidden-meanings/red-balls-on-power-lines-what-are-they/?l=a&amp;utm_medium=CPC&amp;utm_content={{ad_title}}&amp;utm_source=msn-adrizer&amp;utm_campaign=390407&amp;utm_term="   target="_blank"     data-pg="1" data-pid="7HD66FC">
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gV3xw.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://zenherald.com/lifestyle/hidden-meanings/red-balls-on-power-lines-what-are-they/?l=a&amp;utm_medium=CPC&amp;utm_content={{ad_title}}&amp;utm_source=msn-adrizer&amp;utm_campaign=390407&amp;utm_term="   target="_blank"     data-pg="1" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+The Ingenious Reason You See Red Balls on Power Lines                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/money" >Money</a></h2>    <a href="/en-us/money/companies/trump-announces-he-took-1-2b-loan-against-bank-of-america-skyscraper/ar-AAKb4SS"  >
+<img alt="" height="194" src="//www.bing.com/th?id=ORMS.7cbfcba8c0dd0f27b722b0bd5faac6bf&amp;pid=Wdp&amp;h=194&amp;w=300&amp;rs=6&amp;c=6&amp;qlt=70" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/money/companies/trump-announces-he-took-1-2b-loan-against-bank-of-america-skyscraper/ar-AAKb4SS"  >
+
+Trump announces he took $1.2B loan against Bank of America skyscraper    </a>
+
+</li>
+ <li >
+     <a href="/en-us/money/companies/this-grocery-chain-is-shutting-down/ss-AAKaRQB"  >
+
+This Grocery Chain Is Shutting Down    </a>
+
+</li>
+ <li >
+     <a href="/en-us/money/realestate/frank-sinatra-s-desert-hideaway-still-can-t-sell-after-15-years/ss-BB1gP676"  >
+
+Frank Sinatra’s desert hideaway still can&#39;t sell after 15 years    </a>
+
+</li>
+ <li >
+     <a href="/en-us/money/realestate/this-45m-abandoned-mega-mansion-has-finally-found-a-buyer/ss-BB1gTZCD"  >
+
+This $45m abandoned mega-mansion has finally found a buyer    </a>
+
+</li>
+ <li >
+     <a href="/en-us/money/markets/my-wife-and-i-defrauded-the-government-by-hiding-income-now-we-re-divorcing-and-she-s-digging-into-my-assets/ar-BB1gUHrr"  >
+
+My wife and I defrauded the government by hiding income. Now we’re divorcing, and she’s digging into my assets    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/sports" >Sports</a></h2>    <a href="/en-us/sports/nba/luka-don%c4%8di%c4%87-is-ready-for-his-encore/ar-AAKcwg5?li=BB15ms5q"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKceJb.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Luka Dončić Is Ready for His Encore - Provided by Sports Illustrated" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/sports/nba/luka-don%c4%8di%c4%87-is-ready-for-his-encore/ar-AAKcwg5?li=BB15ms5q"  >
+
+Luka Dončić Is Ready for His Encore    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/golf/for-one-beautiful-moment-john-daly-led-the-pga-championship-again/ar-AAKcmWu?li=BB15ms5q"  >
+
+For one beautiful moment, John Daly led the PGA Championship again    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/nfl/aaron-rodgers-j-k-dobbins-michael-thomas-lead-list-of-2021-regression-candidates/ar-AAKcw9W?li=BB15ms5q"  >
+
+Aaron Rodgers, J.K. Dobbins, Michael Thomas lead list of 2021 regression candidates    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/nfl/iowa-state-s-matt-campbell-turned-down-8-year-68-5-million-deal-to-coach-detroit-lions-per-report/ar-AAKcjA4?li=BB15ms5q"  >
+
+Iowa State&#39;s Matt Campbell turned down 8-year, $68.5 million deal to coach Detroit Lions, per report    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/nba/when-do-the-nba-playoffs-start-in-2021-key-dates-schedule-updated-standings-more-to-know/ar-BB1gLIuo?li=BB15ms5q"  >
+
+When do the NBA playoffs start in 2021? Key dates, schedule, updated standings &amp; more to know    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="https://www.msn.com/en-us/esports?OCID=ESPHUB_MSN_3" >Esports</a></h2>    <a href="https://smash.gg/tournament/mortal-kombat-ladder-presented-by-xbox-week-3/details?ocid=ESPHUB_MSN_4"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gryEi.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Mortal Kombat 11 - $4000 in Prizes" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://smash.gg/tournament/mortal-kombat-ladder-presented-by-xbox-week-3/details?ocid=ESPHUB_MSN_4"  >
+
+Mortal Kombat 11 - $4000 in Prizes    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/esports/elite-dangerous-orange-sidewinder-error-code-explained/ar-AAKcrcP?li=BB15ms5q"  >
+
+Elite Dangerous Orange Sidewinder error code explained    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/esports/someone-tries-to-sell-skt-t1-faker-s-name-riot-won-t-let-them/ar-AAKbYau?li=BB15ms5q"  >
+
+Someone tries to sell SKT T1 Faker&#39;s name, Riot won&#39;t let them    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/esports/apex-legends-global-series-championship-prize-pool-will-have-crowd-funding/ar-BB1gV7cz?li=BB15ms5q"  >
+
+Apex Legends Global Series Championship Prize Pool Will Have Crowd Funding    </a>
+
+</li>
+ <li >
+     <a href="/en-us/sports/esports/here-are-the-2021-dpc-sea-regional-league-season-2-standings/ar-BB1fCd4P?li=BB15ms5q"  >
+
+Here are the 2021 DPC SEA Regional League season 2 standings    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="https://bing.com/shop?&FORM=MSNHB1" >Shopping</a></h2>    <a href="/en-us/lifestyle/shopping/rothy-s-is-now-making-men-s-sneakers-and-loafers-made-of-100-recycled-materials/ar-AAKcnU1?li=BBnb2gh"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKcraS.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Rothy’s Is Now Making Men’s Sneakers and Loafers - Rothy’s" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/lifestyle/shopping/rothy-s-is-now-making-men-s-sneakers-and-loafers-made-of-100-recycled-materials/ar-AAKcnU1?li=BBnb2gh"  >
+
+Rothy’s Is Now Making Men’s Sneakers and Loafers Made of 100% Recycled Materials    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/shopping/today-s-top-deals-free-15-amazon-credit-99-echo-dot-20-myq-smart-garage-opener-30-fire-tv-stick-4k-more/ar-AAKcqiT?li=BBnb2gh"  >
+
+Today’s top deals: Free $15 Amazon credit, 99&#162; Echo Dot, $20 MyQ smart garage opener, $30 Fire TV Stick 4K, more    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/shopping/kith-celebrates-its-10th-anniversary-with-a-vans-collection-featuring-a-decade-of-beloved-prints/ar-AAKc4Ib?li=BBnb2gh"  >
+
+Kith Celebrates Its 10th Anniversary With a Vans Collection Featuring a Decade of Beloved Prints    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/shopping/unique-gifts-for-tough-to-impress-college-grads/ss-AAKc5Rb?li=BBnb2gh"  >
+
+Unique gifts for tough-to-impress college grads    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/shopping/kick-off-summer-with-new-rash-guards-for-surfing-and-bodyboarding/ar-BB1gqFP3?li=BBnb2gh"  >
+
+Kick-Off Summer with New Rash Guards for Surfing and Bodyboarding    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/lifestyle" >Lifestyle</a></h2>    <a href="/en-us/money/other/these-viral-tiktok-trends-cleared-store-shelves/ss-AAKcjA2?li=BBnbcA0"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKcmjD.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="When Sales Go Viral - Elena_Danileiko/istockphoto" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/money/other/these-viral-tiktok-trends-cleared-store-shelves/ss-AAKcjA2?li=BBnbcA0"  >
+
+These viral TikTok trends cleared store shelves    </a>
+
+</li>
+ <li >
+     <a href="/en-us/health/wellness/the-single-worst-way-to-sit-for-your-body-says-new-research/ss-BB1fk15z?li=BBnbcA0"  >
+
+The Single Worst Way to Sit for Your Body, Says New Research    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/shopping-all/amazon-now-has-a-section-devoted-to-cleaning-hacks-here-are-the-10-best-buys/ar-AAKcvxD?li=BBnbcA0"  >
+
+Amazon Now Has a Section Devoted to Cleaning Hacks—Here Are the 10 Best Buys    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/us/the-states-with-the-oldest-bridges/ss-AAKc9vW?li=BBnbcA0"  >
+
+The States With the Oldest Bridges    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/fashion/rothy-s-men-s-footwear-has-finally-launched/ar-AAKcsO4?li=BBnbcA0"  >
+
+Rothy&#39;s men&#39;s footwear has finally launched    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/news" >News</a></h2>    <a href="/en-us/news/politics/biden-s-top-scientist-gets-ok-from-senate-committee/ar-AAKcqW6?li=BBnbcA1"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKcvSl.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1908&amp;y=573" title="Eric Lander speaks during an announcement at the Queen theater in Wilmington, De... - Alex Wong/Getty Images" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/news/politics/biden-s-top-scientist-gets-ok-from-senate-committee/ar-AAKcqW6?li=BBnbcA1"  >
+
+Biden’s top scientist gets OK from Senate committee    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/world/the-photos-that-captured-spain-s-migrant-story/ar-AAKcyoe?li=BBnbcA1"  >
+
+The photos that captured Spain&#39;s migrant story    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/world/israel-s-iron-dome-has-been-put-to-the-test-in-more-ways-than-one-amid-intense-fighting-with-palestinian-militants/ar-AAKcCVW?li=BBnbcA1"  >
+
+Israel&#39;s Iron Dome has been put to the test in more ways than one amid intense fighting with Palestinian militants    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/us/california-will-mandate-masks-for-another-month-texas-will-ban-mask-mandates-in-schools-are-both-states-going-too-far/ar-AAKcD1k?li=BBnbcA1"  >
+
+California will mandate masks for another month. Texas will ban mask mandates in schools. Are both states going too far?    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/world/prince-william-thanks-vaccine-workers-as-he-gets-covid-shot/ar-AAKcCMP?li=BBnbcA1"  >
+
+Prince William thanks vaccine workers as he gets COVID shot    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/health" >Health &amp; Fitness</a></h2>    <a href="/en-us/health/fitness/at-50-taraji-p-henson-s-butt-looks-crazy-strong-in-a-bunch-of-new-bikini-pics/ar-AAKcn0P?li=BBnba9O"  >
+
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/health/fitness/at-50-taraji-p-henson-s-butt-looks-crazy-strong-in-a-bunch-of-new-bikini-pics/ar-AAKcn0P?li=BBnba9O"  >
+
+At 50, Taraji P. Henson&#39;s Butt Looks Crazy Strong In A Bunch Of New Bikini Pics    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/lifestyle-buzz/here-s-your-yearly-reminder-that-every-body-is-a-bikini-body/ar-AAKcA7X?li=BBnba9O"  >
+
+Here’s Your Yearly Reminder That *Every* Body Is a Bikini Body    </a>
+
+</li>
+ <li >
+     <a href="/en-us/health/weightloss/you-should-burn-this-many-calories-every-day-say-experts/ar-AAKcqUo?li=BBnba9O"  >
+
+You Should Burn This Many Calories Every Day, Say Experts    </a>
+
+</li>
+ <li >
+     <a href="/en-us/health/fitness/how-to-do-a-figure-4-stretch-to-relieve-tight-hips/ar-AAKcvqt?li=BBnba9O"  >
+
+How to Do a Figure 4 Stretch to Relieve Tight Hips    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/us/why-i-am-my-own-mental-health-hero/ar-AAKcjNn?li=BBnba9O"  >
+
+Why I Am My Own Mental Health Hero    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/autos" >Autos</a></h2>    <a href="https://www.msn.com/en-us/autos/marketplace"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB18Gq6M.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Find a great car at a great price near you - Provided by Motor Trend" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://www.msn.com/en-us/autos/marketplace"  >
+
+Find a great car at a great price near you    </a>
+
+</li>
+ <li >
+     <a href="/en-us/autos/news/8-top-rated-shop-vacs-for-cleaning-messy-garages/ss-AAKcjhb?li=BBnb4R5"  >
+
+8 Top-Rated Shop Vacs for Cleaning Messy Garages    </a>
+
+</li>
+ <li >
+     <a href="/en-us/autos/enthusiasts/tesla-cybertruck-about-to-debut-in-r-c-form-complete-with-cyberquad/ar-BB1gVaIP?li=BBnb4R5"  >
+
+Tesla Cybertruck About to Debut … In R/C Form, Complete With Cyberquad    </a>
+
+</li>
+ <li >
+     <a href="/en-us/autos/news/tesla-under-review-at-california-dmv-for-full-self-driving-claims/ar-BB1gUrWa?li=BBnb4R5"  >
+
+Tesla &#39;under Review&#39; At California DMV for &#39;Full Self Driving&#39; Claims    </a>
+
+</li>
+ <li >
+     <a href="/en-us/autos/enthusiasts/10-reasons-to-buy-a-gm-g-body/ar-AAKaV1z?li=BBnb4R5"  >
+
+10 Reasons to Buy a GM G-Body    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/foodanddrink" >Food &amp; Drink</a></h2>    <a href="/en-us/foodanddrink/foodnews/find-the-best-chinese-restaurant-in-your-state/ss-BB1cYwjs?li=BBnb7Kw"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1cYAZR.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Dim sum winners and chow mein champions - eatsteamboys/Instagram" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/foodanddrink/foodnews/find-the-best-chinese-restaurant-in-your-state/ss-BB1cYwjs?li=BBnb7Kw"  >
+
+Find the best Chinese restaurant in your state    </a>
+
+</li>
+ <li >
+     <a href="/en-us/foodanddrink/foodnews/get-to-know-two-wagyu-farmers-then-make-your-new-favorite-steak-salad/ar-AAKcjBz?li=BBnb7Kw"  >
+
+Get to Know Two Wagyu Farmers (Then Make Your New Favorite Steak Salad)    </a>
+
+</li>
+ <li >
+     <a href="/en-us/foodanddrink/restaurantsandnews/mosaic-and-citra-hops-belong-in-so-much-more-than-beer/ar-AAKcpOd?li=BBnb7Kw"  >
+
+Mosaic and Citra hops belong in so much more than beer    </a>
+
+</li>
+ <li >
+     <a href="/en-us/money/other/how-to-use-tea-leaves-in-your-garden-and-when-you-shouldn-t/ar-AAKciPg?li=BBnb7Kw"  >
+
+How to Use Tea Leaves in Your Garden (and When You Shouldn&#39;t)    </a>
+
+</li>
+ <li >
+     <a href="/en-us/foodanddrink/foodnews/what-you-should-know-about-all-of-the-amazon-prime-day-2021-instant-pot-deals/ar-AAKc4Jq?li=BBnb7Kw"  >
+
+What You Should Know About All Of The Amazon Prime Day 2021 Instant Pot Deals    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/travel" >Travel</a></h2>    <a href="/en-us/money/other/your-guide-to-vaccine-passports/ar-BB1emXXU?li=BBnbklE"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1emXXM.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Your guide to digital health passports - Provided by The Points Guy" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/money/other/your-guide-to-vaccine-passports/ar-BB1emXXU?li=BBnbklE"  >
+
+Your guide to vaccine passports    </a>
+
+</li>
+ <li >
+     <a href="/en-us/travel/news/virgin-galactic-jumps-25-after-it-sets-unity-test-flight-for-this-saturday/ar-AAKcjOm?li=BBnbklE"  >
+
+Virgin Galactic jumps 25% after it sets Unity test flight for this Saturday    </a>
+
+</li>
+ <li >
+     <a href="/en-us/money/realestate/la-s-priciest-home-barron-hilton-s-bel-air-estate-sells-for-61-5m/ss-AAKcqyh?li=BBnbklE"  >
+
+LA&#39;s priciest home! Barron Hilton&#39;s Bel-Air estate sells for $61.5M    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/world/as-the-taliban-rises-uncertainty-looms-for-afghanistan-s-historic-treasures/ar-AAKcpPu?li=BBnbklE"  >
+
+As the Taliban rises, uncertainty looms for Afghanistan’s historic treasures    </a>
+
+</li>
+ <li >
+     <a href="/en-us/travel/tripideas/these-american-islands-have-one-incredible-thing-in-common/ss-BB1e7tTx?li=BBnbklE"  >
+
+These American islands have one incredible thing in common    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-us/video" >Video</a></h2>    <a href="/en-us/news/us/sunday-morning-special-at-home/vi-AAKcsBa"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAKcdJC.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=328&amp;y=129" title="&quot;Sunday Morning&quot; special: &quot;At Home&quot; - Credit: CBSNews" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/news/us/sunday-morning-special-at-home/vi-AAKcsBa"  >
+
+&quot;Sunday Morning&quot; special: &quot;At Home&quot;    </a>
+
+</li>
+ <li >
+     <a href="/en-us/news/politics/rep-brian-mast-berated-for-standing-with-science-not-wearing-mask-on-house-floor/vi-AAKb2WK"  >
+
+Rep. Brian Mast berated for standing with science, not wearing mask on House floor    </a>
+
+</li>
+ <li >
+     <a href="/en-us/entertainment/entertainment-celebrity/la-times-claim-that-covid-hasn-t-harmed-economies-is-profoundly-stupid-concha/vi-AAKcl0D"  >
+
+LA Times&#39; claim that COVID hasn&#39;t harmed economies is &#39;profoundly stupid’: Concha    </a>
+
+</li>
+ <li >
+     <a href="/en-us/video/peopleandplaces/blake-shelton-jokes-his-wedding-to-gwen-stefani-would-be-classless-if-he-planned-it/vi-AAKbZ13"  >
+
+Blake Shelton jokes his wedding to Gwen Stefani would be &#39;classless&#39; if he planned it    </a>
+
+</li>
+ <li >
+     <a href="/en-us/video/animals/here-kitty-kitty-toddler-shows-off-stuffed-cat-to-leopard-at-philadelphia-zoo/vi-BB1gUXx0"  >
+
+Here, Kitty Kitty! Toddler Shows Off Stuffed Cat to Leopard at Philadelphia Zoo    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="https://redirect.viglink.com?key=dbef02aec5071bdf59fe4227281ae5f4&u=http%3A%2F%2Fmicrosoft.com" >Promotions</a></h2>    <a href="/en-us/lifestyle/shopping/top-amazon-deals-32percent-off-portable-ice-makers-dollar50-off-airpods-pro-and-more/ar-BB1eV7Z4?li=BBnAHeK"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1gVaIi.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Top Amazon Deals: 32% Off Portable Ice Makers, $50 Off AirPods Pro and More - Courtesy of Amazon" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/lifestyle/shopping/top-amazon-deals-32percent-off-portable-ice-makers-dollar50-off-airpods-pro-and-more/ar-BB1eV7Z4?li=BBnAHeK"  >
+
+Top Amazon Deals: 32% Off Portable Ice Makers, $50 Off AirPods Pro and More    </a>
+
+</li>
+ <li >
+     <a href="/en-us/lifestyle/shopping/get-ready-for-prime-day-2021-with-a-free-dollar15-amazon-credit/ar-AAKc7k9?li=BBnAHeK"  >
+
+Get ready for Prime Day 2021 with a free $15 Amazon credit    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+    <a href="/en-us/weather/topstories/thursday-morning-weather-with-marty-bass/vi-AAKca4W"  >
+<img alt="" height="194" src="//www.bing.com/th?id=ORMS.bab20609e7c20a85b99c3fd94f71cf15&amp;pid=Wdp&amp;h=194&amp;w=300&amp;rs=6&amp;c=6&amp;qlt=70" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-us/weather/topstories/thursday-morning-weather-with-marty-bass/vi-AAKca4W"  >
+
+Thursday Morning Weather With Marty Bass    </a>
+
+</li>
+ <li >
+     <a href="/en-us/weather/topstories/world-s-largest-iceberg-forms-off-coast-of-antarctica/ar-AAKbN6U"  >
+
+World&#39;s largest iceberg forms off coast of Antarctica    </a>
+
+</li>
+ <li >
+     <a href="/en-us/weather/topstories/the-hurricane-center-is-already-watching-a-potential-storm-in-the-atlantic/ar-BB1gUEOA"  >
+
+Hurricane Center is watching a potential storm in the Atlantic    </a>
+
+</li>
+ <li >
+     <a href="/en-us/weather/topstories/north-beach-underwater-after-recent-rain-storms/vi-AAKaS6C"  >
+
+North Beach underwater after recent rain storms    </a>
+
+</li>
+ <li >
+     <a href="/en-us/weather/topstories/air-quality-alert-issued-for-northern-va-plus-washington-dc/ar-AAKaKqh"  >
+
+Air Quality Alert Issued For Northern VA Plus Washington, DC    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-us">Home</a>
+</li>
+ <li >
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/news/coronavirus">Coronavirus News</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/esports?ocid=essports">esports</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle/shopping">Shopping</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ <li >
+<a href="/en-us/kids">Kids</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/">&#169; 2021 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">Advertise</a>
+ <a href="https://blogs.msn.com/">MSN Blog</a>
+ <a href="/en-us/news/us/about-us/ar-BBN0NAK">About Us</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=2ed20eec5fea459dab3b94cfc82987f9&amp;rnd=637571208463611724&amp;rf=&amp;tp=https%253A%252F%252Fwww.msn.com%252Fen-us%253Fr%253D1&amp;di=340&amp;lng=en-us&amp;activityId=2ed20eec5fea459dab3b94cfc82987f9&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=637571208463611724&amp;c7=https%253A%252F%252Fwww.msn.com%252Fen-us%253Fr%253D1&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="https://web.vortex.data.msn.com/collect/v1/t.gif?name=%27Ms.Webi.PageView%27&amp;ver=%272.1%27&amp;appId=%27JS%3AMSN%27&amp;ext-app-env=%27prod%27&amp;ext-javascript-libver=%274.0.0-beta-10%27&amp;ext-user-localId=%27t%3A0151A320E52C6FFA3552B31AE4286EEC%27&amp;*baseType=%27Ms.Content.PageView%27&amp;*isJs=False&amp;*title=%27%27&amp;*isLoggedIn=False&amp;*isManual=True&amp;*serverImpressionGuid=%272ed20eec-5fea-459d-ab3b-94cfc82987f9%27&amp;-ver=%271.0%27&amp;-impressionGuid=%272ed20eec-5fea-459d-ab3b-94cfc82987f9%27&amp;-pageName=%27startpage%27&amp;-uri=%27https%253A%252F%252Fwww.msn.com%252Fen-us%253Fr%253D1%27&amp;-referrerUri=%27%27&amp;-pageTags=%27{&quot;pg.t&quot;%3A&quot;hp&quot;%2C&quot;pg.p&quot;%3A&quot;prime&quot;%2C&quot;pg.c&quot;%3A&quot;&quot;%2C&quot;ex&quot;%3A&quot;&quot;%2C&quot;rid&quot;%3A&quot;2ed20eec5fea459dab3b94cfc82987f9&quot;%2C&quot;clid&quot;%3A&quot;0151A320E52C6FFA3552B31AE4286EEC&quot;%2C&quot;clidType&quot;%3A&quot;muid&quot;%2C&quot;di&quot;%3A&quot;340&quot;%2C&quot;partner&quot;%3A&quot;&quot;%2C&quot;publcat&quot;%3A&quot;&quot;%2C&quot;cvs&quot;%3A&quot;Browser&quot;%2C&quot;subcvs&quot;%3A&quot;homepage&quot;%2C&quot;entityId&quot;%3A&quot;&quot;%2C&quot;entitySrc&quot;%3A&quot;&quot;%2C&quot;provid&quot;%3A&quot;&quot;%2C&quot;dpt&quot;%3A&quot;&quot;%2C&quot;sdpt&quot;%3A&quot;&quot;%2C&quot;ar&quot;%3A&quot;0&quot;%2C&quot;dgk&quot;%3A&quot;downlevel.pc&quot;%2C&quot;imd&quot;%3A&quot;0&quot;%2C&quot;parentId&quot;%3A&quot;&quot;%2C&quot;pgIdx&quot;%3A&quot;&quot;%2C&quot;pgTot&quot;%3A&quot;&quot;%2C&quot;anoncknm&quot;%3A&quot;&quot;%2C&quot;afd&quot;%3A&quot;&quot;%2C&quot;issso&quot;%3A&quot;0&quot;%2C&quot;aadState&quot;%3A&quot;0&quot;}%27&amp;-behavior=0&amp;-market=%27en-us%27" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>
